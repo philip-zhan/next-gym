@@ -13,6 +13,7 @@
     "db:drop": "drizzle-kit drop"
   },
   "dependencies": {
+    "@daveyplate/better-auth-ui": "^3.2.5",
     "@pothos/core": "^4.9.1",
     "better-auth": "^1.3.23",
     "class-variance-authority": "^0.7.1",
